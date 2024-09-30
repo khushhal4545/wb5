@@ -1,0 +1,1 @@
+alert("welcome this new page")
